@@ -1,6 +1,6 @@
 Contractor, Hitrust, 2018/1 - 2018/12
 ---
-###Futures Notify System
+### Futures Notify System
 #### Content
 - Scan db if there is been updated by other system. Then send notify to client.
 - Translate data through HTTP/HTTPS/SFTP/SOCKET with format XML/JSON/BYTES.
@@ -21,7 +21,7 @@ Contractor, Hitrust, 2018/1 - 2018/12
 
 ---
 
-###Loan System
+### Loan System
 #### Content
 - Loan/Payment's pages and processes.
 - Use EDI for receiving data from other server.
